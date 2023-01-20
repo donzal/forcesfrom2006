@@ -1,0 +1,26 @@
+body {
+    background-color:#262626;
+}
+
+h1 {
+    color:#ffffff;
+    font-family: 'Roboto Mono', monospace;
+    text-align:center;
+
+
+
+}
+a{
+    color:#ffffff;
+    text-decoration:none;
+    font-family: 'Roboto Mono', monospace;
+    font-size:110%;
+   
+}
+.links {
+    align-self:center;
+    margin-left:45%;
+    word-spacing: 1rem;
+}
+
+
